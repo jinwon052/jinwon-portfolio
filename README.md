@@ -51,7 +51,7 @@
 - cos 라이브러리를 활용한 이미지 업로드 기능
 
 ### 🛠 기술 스택
-`Java`, `Spring Boot`, `JPA`, `JSP`, `lombok`,  
+`Java`, `JPA`, `JSP`, `lombok`,  
 `Bootstrap`, `JavaScript`, `CSS`, `cos`
 
 ### 🎬 시연 영상
