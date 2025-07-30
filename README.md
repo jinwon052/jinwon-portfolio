@@ -34,7 +34,7 @@
 `Bootstrap`, `JavaScript`, `jQuery`, `CSS`
 
 ### 🎬 시연 영상
-[YouTube 링크](https://youtu.be/0ly_Di_QGrw)
+[YouTube 시연 영상](https://youtu.be/0ly_Di_QGrw)
 
 ---
 
