@@ -10,7 +10,7 @@
 | 프로젝트명 | 기간 | 유형 | 주요 기술 |
 |------------|------|------|------------|
 | [🏨 호텔 예약 시스템] [링크](https://github.com/d2ckbum/hotel_mimir.git) | 2025.06.25 ~ 07.29 | 팀 프로젝트 | Spring Boot, MyBatis |
-| [🏯 관광지 안내 시스템] [링크](https://github.com/d2ckbum/Gung_On.git) | 2025.04.01 ~ 04.28 | 팀 프로젝트 | Spring Boot, JPA |
+| [🏯 관광지 안내 시스템] [링크](https://github.com/d2ckbum/Gung_On.git) | 2025.04.01 ~ 04.28 | 팀 프로젝트 | JSP, JPA |
 | [🚗 엔진오일샵 시스템] [링크](https://github.com/d2ckbum/group_prj.git) | 2025.02.14 ~ 02.28 | 팀 프로젝트 | Java Swing, JDBC |
 
 ---
